@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Davena M. MSW, MPA, LCSW
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Davena
+last_name: Mgbeokwere
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Owner, CEO, and Lead Therapist and Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Ase Center for Stress and Trauma
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
