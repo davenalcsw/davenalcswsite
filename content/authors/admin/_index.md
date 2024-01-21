@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Davena M. MSW, MPA, LCSW
+title: Davena Mgbeokwere
 
 # Full Name (for SEO)
 first_name: Davena
@@ -10,50 +10,56 @@ last_name: Mgbeokwere
 superuser: true
 
 # Role/position
-role: Owner, CEO, and Lead Therapist and Doctoral Student
+role: Owner, CEO, and Lead Therapist/
+      Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Ase Center for Stress and Trauma
+  - name: Ase Center for Stress and Trauma/
+          Georgia State University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social determinants of health, stress and trauma, and inclusive tech, policy, and programs.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health Technology
+  - Science Communication
+  - Health Policy
+  - Social Determinants of Health
+  - Stress and Trauma
+  - Data Science
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Pursuing PhD in Psychology (cognitive and affective neuroscience)
+      institution: Georgia State University
+    - course: Masters in Social Work and Masters in Public Administration
+      institution: University of North Carolina at Chapel Hill
+    - course: BA in Human Biology
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/davenalcsw
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/davenalcsw
+  - icon: medium
+    icon_pack: custom 
+    link: https://medium.com/@davenalcsw
+  - icon: linkedin
+    icon_pack: custom 
+    link: www.linkedin.com/in/davenamgbeokwere
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +80,3 @@ user_groups:
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
