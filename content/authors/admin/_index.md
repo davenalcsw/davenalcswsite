@@ -20,7 +20,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social determinants of health, stress and trauma, and inclusive tech, policy, and programs.
+bio: My research interests include social determinants of health, stress and trauma, and inclusive health tech, policy, and programs.
 
 interests:
   - Health Technology
@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-    - course: *Pursuing* PhD in Psychology (*cognitive and affective neuroscience*)
+    - course: Pursuing PhD in Psychology (cognitive and affective neuroscience)
       institution: Georgia State University
     - course: Masters in Social Work and Masters in Public Administration
       institution: University of North Carolina at Chapel Hill
