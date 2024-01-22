@@ -1,4 +1,5 @@
 ---
-title: 
-url: /author/davena-mgbeokwere/
+{{ with .GetPage "/authors/admin/davena-mgbeokwere" }}
+  {{ .Title }} → Davena Mgbeokwere
+{{ end }}
 ---
