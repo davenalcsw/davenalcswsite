@@ -1,6 +1,6 @@
 ---
 # Display name
-title: about me
+title: Davena Mgbeokwere
 
 # Full Name (for SEO)
 first_name: Davena
