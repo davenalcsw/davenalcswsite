@@ -42,7 +42,16 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-
+  button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
+    # Let the user choose between light or dark mode?
+    show_theme_chooser: true
+    # Let the user search from the navigation bar?
+    show_search: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
 # Site footer
 
 footer:
