@@ -29,10 +29,11 @@ interests:
   - Social Determinants of Health
   - Stress and Trauma
   - Data Science
+  - Psychophysiology
 
 education:
   courses:
-    - course: Pursuing PhD in Psychology (cognitive and affective neuroscience)
+    - course: *Pursuing* PhD in Psychology (*cognitive and affective neuroscience*)
       institution: Georgia State University
     - course: Masters in Social Work and Masters in Public Administration
       institution: University of North Carolina at Chapel Hill
@@ -78,5 +79,5 @@ user_groups:
   - Behavioral Health Provider & Applied Researcher
 ---
 
-I am the owner and CEO of a private practice, therapist, and doctoral student. My research interests include stress-related systems with a focus on the parasympathetic nervous system, stress- and trauma-related disorders, stress vulnerability and resilience, and social determinants of health (i.e., class and race). I am interested in bridging the research, practice, programming, policy, and technology gap.
+I am the owner and CEO of a private practice, therapist, and doctoral student. My research interests include stress-related systems (with a focus on the parasympathetic nervous system), stress- and trauma-related disorders, stress vulnerability and resilience, and social determinants of health (i.e., class and race). I am interested in bridging the research, practice, programming, policy, and technology gap.
 
