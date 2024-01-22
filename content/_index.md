@@ -1,3 +1,3 @@
 {{ with .GetPage "/authors/admin/index" }}
-  {{ .Title }} → About
+  {{ .Title }} → Davena Mgbeokwere
 {{ end }}
