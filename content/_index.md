@@ -11,7 +11,7 @@ sections:
   - block: resume-biography
     content:
       # The user's folder name in `content/authors/`
-      username: admin
+      username: admin/index.md
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       # button:
