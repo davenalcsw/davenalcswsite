@@ -1,138 +1,80 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
+# Display name
+title: Davena Mgbeokwere
 
-title: My page
-type: landing
+# Full Name (for SEO)
+first_name: Davena
+last_name: Mgbeokwere
 
+# Is this the primary user of the site?
+superuser: true
 
+# Role/position
+role: Owner, CEO, and Lead Therapist/
+      Doctoral Student
 
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+# Organizations/Affiliations
+organizations:
+  - name: Ase Center for Stress and Trauma/
+          Georgia State University
+    url: ''
 
-sections:
-  - block: resume-biography
-    content:
-      # The user's folder name in `content/authors/`
-      username: admin/index.md
-      # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
-      # button:
-        # text: Download Résumé
-       # url: uploads/resume.pdf
-    design:
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: ''
-      biography:
-        # Customize the CSS style of your biography text (optional)
-        style: ''
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include social determinants of health, stress and trauma, and inclusive health tech, policy, and programs.
 
-sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Recent Post
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+interests:
+  - Health Technology
+  - Science Communication
+  - Health Policy
+  - Social Determinants of Health
+  - Stress and Trauma
+  - Data Science
+  - Psychophysiology
+
+education:
+  courses:
+    - course: Pursuing PhD in Psychology (cognitive and affective neuroscience)
+      institution: Georgia State University
+    - course: Masters in Social Work and Masters in Public Administration
+      institution: University of North Carolina at Chapel Hill
+    - course: BA in Human Biology
+      institution: Stanford University
+      
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/davenalcsw
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/davenalcsw
+  - icon: medium
+    icon_pack: custom 
+    link: https://medium.com/@davenalcsw
+  - icon: linkedin
+    icon_pack: custom 
+    link: www.linkedin.com/in/davenamgbeokwere
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Behavioral Health Provider & Applied Researcher
 ---
