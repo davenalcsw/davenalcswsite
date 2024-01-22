@@ -21,7 +21,7 @@
     debug = true
 
 [[redirects]]
-  from = "/"
+  from = "https://davenalcsw.netlify.app/"
   to = "author/davena-mgbeokwere/"
   status = 301
   force = false
