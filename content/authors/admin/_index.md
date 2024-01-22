@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Davena Mgbeokwere
+title: about me
 
 # Full Name (for SEO)
 first_name: Davena
@@ -70,13 +70,13 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Behavioral Health Provider & Applied Researcher
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am the owner and CEO of a private practice, therapist, and doctoral student. My research interests include stress-related systems with a focus on the parasympathetic nervous system, stress- and trauma-related disorders, stress vulnerability and resilience, and social determinants of health (i.e., class and race). I am interested in bridging the research, practice, programming, policy, and technology gap.
 
