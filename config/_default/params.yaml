@@ -42,12 +42,6 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-  button:
-    enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    # Let the user choose between light or dark mode?
-    show_theme_chooser: true
   
 # Site footer
 
