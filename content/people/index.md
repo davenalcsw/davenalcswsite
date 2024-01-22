@@ -17,6 +17,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Behavioral Health Provider & Applied Researcher
       sort_by: Params.last_name
       sort_ascending: true
     design:
