@@ -7,8 +7,8 @@ type: landing
 title: My page
 type: landing
 
-active: false
 sections:
+  active: false
   - block: slider
     content:
       slides:
